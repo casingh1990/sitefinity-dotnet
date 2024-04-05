@@ -1,0 +1,5 @@
+packages
+.vs
+'Sitefinity Backend/Sitefinity Backend/App_Data'
+*.mdf
+*.ldf
