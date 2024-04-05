@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "xZWAS1Iz84ZaJcvi4k3B/jC8N4C9SMslGBP6EqZuzqE=",
+  "Source": "Renderer",
+  "BasePath": "_content/Renderer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Renderer\\wwwroot",
+      "Source": "Renderer",
+      "ContentRoot": "C:\\Users\\casingh (Personal)\\source\\repos\\Renderer\\wwwroot\\",
+      "BasePath": "_content/Renderer",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\casingh (Personal)\\source\\repos\\Renderer\\wwwroot\\favicon.ico",
+      "SourceId": "Renderer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\casingh (Personal)\\source\\repos\\Renderer\\wwwroot\\",
+      "BasePath": "_content/Renderer",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\casingh (Personal)\\source\\repos\\Renderer\\wwwroot\\main.js",
+      "SourceId": "Renderer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\casingh (Personal)\\source\\repos\\Renderer\\wwwroot\\",
+      "BasePath": "_content/Renderer",
+      "RelativePath": "main.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main.js"
+    }
+  ]
+}
