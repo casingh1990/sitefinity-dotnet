@@ -9,35 +9,35 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Renderer
 build_property.RootNamespace = Renderer
-build_property.ProjectDir = C:\Users\casingh (Personal)\source\repos\Renderer\
+build_property.ProjectDir = C:\Users\casingh (Personal)\source\renderer\sitefinity-dotnet\Renderer\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\casingh (Personal)\source\repos\Renderer
+build_property.MSBuildProjectDirectory = C:\Users\casingh (Personal)\source\renderer\sitefinity-dotnet\Renderer
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/casingh (Personal)/source/repos/Renderer/Views/Shared/Components/Testimonial/Default.cshtml]
+[C:/Users/casingh (Personal)/source/renderer/sitefinity-dotnet/Renderer/Views/Shared/Components/Testimonial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVGVzdGltb25pYWxcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/casingh (Personal)/source/repos/Renderer/Views/Shared/Components/Testimonial/Single.cshtml]
+[C:/Users/casingh (Personal)/source/renderer/sitefinity-dotnet/Renderer/Views/Shared/Components/Testimonial/Single.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVGVzdGltb25pYWxcU2luZ2xlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/casingh (Personal)/source/repos/Renderer/Views/Shared/Default.cshtml]
+[C:/Users/casingh (Personal)/source/renderer/sitefinity-dotnet/Renderer/Views/Shared/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/casingh (Personal)/source/repos/Renderer/Views/Shared/_Layout.cshtml]
+[C:/Users/casingh (Personal)/source/renderer/sitefinity-dotnet/Renderer/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/casingh (Personal)/source/repos/Renderer/Views/Shared/_ReactIndexLayout.cshtml]
+[C:/Users/casingh (Personal)/source/renderer/sitefinity-dotnet/Renderer/Views/Shared/_ReactIndexLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9SZWFjdEluZGV4TGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/casingh (Personal)/source/repos/Renderer/Views/_ViewImports.cshtml]
+[C:/Users/casingh (Personal)/source/renderer/sitefinity-dotnet/Renderer/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

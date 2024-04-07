@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xZWAS1Iz84ZaJcvi4k3B/jC8N4C9SMslGBP6EqZuzqE=",
+  "Hash": "LysQaeRRXNikn077O07YAPRE7jfvgDv5X66R4jKOdX4=",
   "Source": "Renderer",
   "BasePath": "_content/Renderer",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Renderer\\wwwroot",
       "Source": "Renderer",
-      "ContentRoot": "C:\\Users\\casingh (Personal)\\source\\repos\\Renderer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\casingh (Personal)\\source\\renderer\\sitefinity-dotnet\\Renderer\\wwwroot\\",
       "BasePath": "_content/Renderer",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\casingh (Personal)\\source\\repos\\Renderer\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\casingh (Personal)\\source\\renderer\\sitefinity-dotnet\\Renderer\\wwwroot\\favicon.ico",
       "SourceId": "Renderer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\casingh (Personal)\\source\\repos\\Renderer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\casingh (Personal)\\source\\renderer\\sitefinity-dotnet\\Renderer\\wwwroot\\",
       "BasePath": "_content/Renderer",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\casingh (Personal)\\source\\repos\\Renderer\\wwwroot\\main.js",
+      "Identity": "C:\\Users\\casingh (Personal)\\source\\renderer\\sitefinity-dotnet\\Renderer\\wwwroot\\main.js",
       "SourceId": "Renderer",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\casingh (Personal)\\source\\repos\\Renderer\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\casingh (Personal)\\source\\renderer\\sitefinity-dotnet\\Renderer\\wwwroot\\",
       "BasePath": "_content/Renderer",
       "RelativePath": "main.js",
       "AssetKind": "All",

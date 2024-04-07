@@ -1,11 +1,11 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\casingh (Personal)\\source\\repos\\Renderer\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\casingh (Personal)\\source\\renderer\\sitefinity-dotnet\\Renderer\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\casingh (Personal)\\source\\repos\\Renderer\\wwwroot\\main.js",
+      "Id": "C:\\Users\\casingh (Personal)\\source\\renderer\\sitefinity-dotnet\\Renderer\\wwwroot\\main.js",
       "PackagePath": "staticwebassets\\main.js"
     },
     {
