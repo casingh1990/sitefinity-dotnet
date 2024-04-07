@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lHZRNZHXslN6aYsItvO+WZCLSgqYnza/mzzJp54A4ijN1AelIUk5eiZ/Se0VFvExYcOTvugj93lat7s3ZOqcpA==",
+  "dgSpecHash": "tP3Log+QQjYfKT4crHg3mlr7UZg1xeDo+h2e8z7H1M2hI7enDIko+bFGFLsWgI4hONneWTReYmH8Ibd0KMexpw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\casingh (Personal)\\source\\repos\\Renderer\\Renderer.csproj",
+  "projectFilePath": "C:\\Users\\casingh (Personal)\\source\\renderer\\sitefinity-dotnet\\Renderer\\Renderer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\casingh (Personal)\\.nuget\\packages\\anglesharp\\0.17.1\\anglesharp.0.17.1.nupkg.sha512",
     "C:\\Users\\casingh (Personal)\\.nuget\\packages\\anglesharp.css\\0.17.0\\anglesharp.css.0.17.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\casingh (Personal)\\source\\repos\\Renderer\\Renderer.csproj": {}
+    "C:\\Users\\casingh (Personal)\\source\\renderer\\sitefinity-dotnet\\Renderer\\Renderer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\casingh (Personal)\\source\\repos\\Renderer\\Renderer.csproj": {
+    "C:\\Users\\casingh (Personal)\\source\\renderer\\sitefinity-dotnet\\Renderer\\Renderer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\casingh (Personal)\\source\\repos\\Renderer\\Renderer.csproj",
+        "projectUniqueName": "C:\\Users\\casingh (Personal)\\source\\renderer\\sitefinity-dotnet\\Renderer\\Renderer.csproj",
         "projectName": "Renderer",
-        "projectPath": "C:\\Users\\casingh (Personal)\\source\\repos\\Renderer\\Renderer.csproj",
+        "projectPath": "C:\\Users\\casingh (Personal)\\source\\renderer\\sitefinity-dotnet\\Renderer\\Renderer.csproj",
         "packagesPath": "C:\\Users\\casingh (Personal)\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\casingh (Personal)\\source\\repos\\Renderer\\obj\\",
+        "outputPath": "C:\\Users\\casingh (Personal)\\source\\renderer\\sitefinity-dotnet\\Renderer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\casingh (Personal)\\AppData\\Roaming\\NuGet\\NuGet.Config",
