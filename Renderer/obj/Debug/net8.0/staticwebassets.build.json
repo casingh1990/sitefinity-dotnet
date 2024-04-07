@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LysQaeRRXNikn077O07YAPRE7jfvgDv5X66R4jKOdX4=",
+  "Hash": "eBsPkh0XwQMPmNA0yEWRzOjw6B3JXrpNWl8S42i6YmU=",
   "Source": "Renderer",
   "BasePath": "_content/Renderer",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\main.js"
+    },
+    {
+      "Identity": "C:\\Users\\casingh (Personal)\\source\\renderer\\sitefinity-dotnet\\Renderer\\wwwroot\\scripts\\form-all.js",
+      "SourceId": "Renderer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\casingh (Personal)\\source\\renderer\\sitefinity-dotnet\\Renderer\\wwwroot\\",
+      "BasePath": "_content/Renderer",
+      "RelativePath": "scripts/form-all.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\scripts\\form-all.js"
     }
   ]
 }

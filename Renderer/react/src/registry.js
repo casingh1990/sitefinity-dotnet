@@ -1,5 +1,7 @@
 import Testimonial from './Testimonial';
+import SubmitButton from './SubmitButton';
 
 export const Registry = {
-    Testimonial: Testimonial
+    Testimonial: Testimonial,
+    SubmitButton: SubmitButton
 }

@@ -18,6 +18,54 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\casingh (Personal)\source\renderer\sitefinity-dotnet\Renderer
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/casingh (Personal)/source/renderer/sitefinity-dotnet/Renderer/Views/Shared/Components/SitefinityCheckboxes/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2l0ZWZpbml0eUNoZWNrYm94ZXNcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/casingh (Personal)/source/renderer/sitefinity-dotnet/Renderer/Views/Shared/Components/SitefinityDropdown/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2l0ZWZpbml0eURyb3Bkb3duXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/casingh (Personal)/source/renderer/sitefinity-dotnet/Renderer/Views/Shared/Components/SitefinityDynamicList/Checkboxes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2l0ZWZpbml0eUR5bmFtaWNMaXN0XENoZWNrYm94ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/casingh (Personal)/source/renderer/sitefinity-dotnet/Renderer/Views/Shared/Components/SitefinityDynamicList/Dropdown.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2l0ZWZpbml0eUR5bmFtaWNMaXN0XERyb3Bkb3duLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/casingh (Personal)/source/renderer/sitefinity-dotnet/Renderer/Views/Shared/Components/SitefinityFileField/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2l0ZWZpbml0eUZpbGVGaWVsZFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/casingh (Personal)/source/renderer/sitefinity-dotnet/Renderer/Views/Shared/Components/SitefinityFormContentBlock/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2l0ZWZpbml0eUZvcm1Db250ZW50QmxvY2tcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/casingh (Personal)/source/renderer/sitefinity-dotnet/Renderer/Views/Shared/Components/SitefinityFormSection/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2l0ZWZpbml0eUZvcm1TZWN0aW9uXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/casingh (Personal)/source/renderer/sitefinity-dotnet/Renderer/Views/Shared/Components/SitefinityForm/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2l0ZWZpbml0eUZvcm1cRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/casingh (Personal)/source/renderer/sitefinity-dotnet/Renderer/Views/Shared/Components/SitefinityMultipleChoice/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2l0ZWZpbml0eU11bHRpcGxlQ2hvaWNlXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/casingh (Personal)/source/renderer/sitefinity-dotnet/Renderer/Views/Shared/Components/SitefinityParagraph/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2l0ZWZpbml0eVBhcmFncmFwaFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/casingh (Personal)/source/renderer/sitefinity-dotnet/Renderer/Views/Shared/Components/SitefinitySubmitButton/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2l0ZWZpbml0eVN1Ym1pdEJ1dHRvblxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/casingh (Personal)/source/renderer/sitefinity-dotnet/Renderer/Views/Shared/Components/SitefinityTextField/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2l0ZWZpbml0eVRleHRGaWVsZFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/casingh (Personal)/source/renderer/sitefinity-dotnet/Renderer/Views/Shared/Components/Testimonial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVGVzdGltb25pYWxcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -36,6 +84,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/casingh (Personal)/source/renderer/sitefinity-dotnet/Renderer/Views/Shared/_ReactIndexLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9SZWFjdEluZGV4TGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/casingh (Personal)/source/renderer/sitefinity-dotnet/Renderer/Views/Shared/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WaWV3SW1wb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/casingh (Personal)/source/renderer/sitefinity-dotnet/Renderer/Views/_ViewImports.cshtml]
