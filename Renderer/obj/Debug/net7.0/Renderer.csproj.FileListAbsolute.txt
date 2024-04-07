@@ -43,3 +43,5 @@ C:\Users\casingh (Personal)\source\repos\Renderer\bin\Debug\net7.0\react\package
 C:\Users\casingh (Personal)\source\repos\Renderer\bin\Debug\net7.0\Renderer.staticwebassets.runtime.json
 C:\Users\casingh (Personal)\source\repos\Renderer\obj\Debug\net7.0\Renderer.RazorAssemblyInfo.cache
 C:\Users\casingh (Personal)\source\repos\Renderer\obj\Debug\net7.0\Renderer.RazorAssemblyInfo.cs
+C:\Users\casingh (Personal)\source\repos\Renderer\bin\Debug\net7.0\react\build\asset-manifest.json
+C:\Users\casingh (Personal)\source\repos\Renderer\obj\Debug\net7.0\Renderer.sourcelink.json

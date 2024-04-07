@@ -18,7 +18,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -26,8 +26,8 @@
           "https://nuget.sitefinity.com/nuget": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -43,28 +43,28 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Progress.Sitefinity.AspNetCore": {
               "target": "Package",
-              "version": "[15.0.8228.22, )"
+              "version": "[15.1.8300.303, )"
             },
             "Progress.Sitefinity.AspNetCore.FormWidgets": {
               "target": "Package",
-              "version": "[15.0.8228.22, )"
+              "version": "[15.1.8300.303, )"
             },
             "Progress.Sitefinity.AspNetCore.Widgets": {
               "target": "Package",
-              "version": "[15.0.8228.22, )"
+              "version": "[15.1.8300.303, )"
             },
             "Progress.Sitefinity.Renderer": {
               "target": "Package",
-              "version": "[15.0.8228.22, )"
+              "version": "[15.1.8300.303, )"
             },
             "Progress.Sitefinity.RestSdk": {
               "target": "Package",
-              "version": "[15.0.8228.22, )"
+              "version": "[15.1.8300.303, )"
             }
           },
           "imports": [
@@ -86,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
