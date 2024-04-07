@@ -7,8 +7,10 @@ using Progress.Sitefinity.AspNetCore.FormWidgets;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddSitefinity(x => x.CspOptions.Disabled = true);
+
 // Add services to the container.
-builder.Services.AddSitefinity();
+//builder.Services.AddSitefinity();
 builder.Services.AddViewComponentModels();
 builder.Services.AddFormViewComponentModels();
 

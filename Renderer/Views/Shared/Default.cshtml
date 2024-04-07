@@ -1,0 +1,73 @@
+﻿@model Progress.Sitefinity.AspNetCore.Models.PageModel
+@using Progress.Sitefinity.AspNetCore.Mvc.Rendering
+
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@addTagHelper *, Progress.Sitefinity.AspNetCore
+
+@inject Progress.Sitefinity.AspNetCore.Web.IRequestContext requestContext;
+@inject Progress.Sitefinity.AspNetCore.Web.IRenderContext renderContext;
+
+<!DOCTYPE html>
+<html id="html" lang="@requestContext.Culture">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/x-icon" href="~/favicon.ico">
+
+    @Html.RenderSeoMeta(this.Model)
+    @* Scripts for the OOB Sitefinity widgets *@
+    <link rel="stylesheet" href="@Progress.Sitefinity.AspNetCore.Constants.PrefixRendererUrl("styles/main.css")" type="text/css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+          integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+          crossorigin="" />
+
+    <environment include="Development">
+        <link rel="stylesheet" href="~/css/coriander-lane.css" />
+        <script src="~/scripts/main.js"></script>
+    </environment>
+    <environment exclude="Development">
+        <link rel="stylesheet" href="~/css/coriander-lane.min.css" />
+        <script src="~/scripts/main.min.js"></script>
+    </environment>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+
+    <environment include="Development">
+        <script src="scripts/bootstrap.bundle.js" section-name="Top"></script>
+    </environment>
+    <environment exclude="Development">
+        <script src="scripts/bootstrap.bundle.min.js" section-name="Top"></script>
+    </environment>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+            integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+            crossorigin=""></script>
+</head>
+
+<body class="container-fluid d-flex flex-column">
+    @if (!renderContext.IsEdit)
+    {
+        <div id="tracking-consent">
+            <strong>We would like to track you</strong>
+            <p>We use cookies to personalize content and to analyze our traffic. Some of these cookies also help improve your user experience on our websites, assist with navigation and your ability to provide feedback, and assist with our promotional and marketing efforts.</p>
+            <button type="button" onclick="TrackingConsentManager.updateUserConsent(true)" id="tracking-consent-dialog-accept" class="btn btn-primary me-4">I Accept</button>
+            <button type="button" onclick="TrackingConsentManager.updateUserConsent(false)" id="tracking-consent-dialog-reject" class="btn btn-secondary">I Refuse</button>
+        </div>
+    }
+    <div class="row">
+        <div class='sfWatermark'>
+            This is a trial site. All content and functionalities are for demo purposes only. Do not use personal data.
+        </div>
+    </div>
+    <header data-sfcontainer="Header" class="position-relative">
+    </header>
+    <main data-sfcontainer="Content">
+    </main>
+    <footer data-sfcontainer="Footer" class="mt-auto">
+    </footer>
+    @RenderSection("Scripts")
+</body>
+<script defer="defer" src="~/main.js"></script>
+</html>

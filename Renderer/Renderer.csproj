@@ -1,17 +1,17 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
-    <TargetFramework>net7.0</TargetFramework>
+    <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Progress.Sitefinity.AspNetCore" Version="15.0.8228.22" />
-    <PackageReference Include="Progress.Sitefinity.AspNetCore.FormWidgets" Version="15.0.8228.22" />
-    <PackageReference Include="Progress.Sitefinity.AspNetCore.Widgets" Version="15.0.8228.22" />
-    <PackageReference Include="Progress.Sitefinity.Renderer" Version="15.0.8228.22" />
-    <PackageReference Include="Progress.Sitefinity.RestSdk" Version="15.0.8228.22" />
+    <PackageReference Include="Progress.Sitefinity.AspNetCore" Version="15.1.8300.303" />
+    <PackageReference Include="Progress.Sitefinity.AspNetCore.FormWidgets" Version="15.1.8300.303" />
+    <PackageReference Include="Progress.Sitefinity.AspNetCore.Widgets" Version="15.1.8300.303" />
+    <PackageReference Include="Progress.Sitefinity.Renderer" Version="15.1.8300.303" />
+    <PackageReference Include="Progress.Sitefinity.RestSdk" Version="15.1.8300.303" />
   </ItemGroup>
 
 </Project>

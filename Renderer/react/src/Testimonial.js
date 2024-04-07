@@ -2,6 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 
 const Testimonial = props => {
+    console.log('hello world', props);
   ReactDOM.render(
     <div key={props.Id}>
       <p>{props.Quote}</p>
