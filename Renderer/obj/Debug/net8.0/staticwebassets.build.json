@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "Hash": "eBsPkh0XwQMPmNA0yEWRzOjw6B3JXrpNWl8S42i6YmU=",
+=======
+  "Hash": "LysQaeRRXNikn077O07YAPRE7jfvgDv5X66R4jKOdX4=",
+>>>>>>> origin/master
   "Source": "Renderer",
   "BasePath": "_content/Renderer",
   "Mode": "Default",
