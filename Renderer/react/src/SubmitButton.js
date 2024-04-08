@@ -5,7 +5,7 @@ const SubmitButton = props => {
     console.log('hello input', props);
   ReactDOM.render(
     <div key={props.Id}>
-      <input type="button" onClick="console.log('button was clicked')" />
+      <button type="submit" class="btn btn-primary">{ props.Label }</button>
     </div>,
     props.container
   )
